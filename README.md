@@ -57,6 +57,4 @@
   
   <br/>
 
-  <img src="./profile-summary-card-output/tokyonight/4-product-time.svg" alt="Productive Time" />
-
 </div>
