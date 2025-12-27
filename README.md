@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&width=600&lines=System+Administrator;Python+Developer;Learning+Full+Stack+Web;Welcome+to+my+profile!&center=true&vCenter=true&multiline=true&height=150" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F88FF&width=600&height=50&lines=System+Administrator;Python+Developer;Learning+Full+Stack+Web;Welcome+to+my+profile!&center=true&vCenter=true" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Я VORON Системный Администратор</h3>
+<h3 align="center">Hi, I'm VORON — System Administrator & Budding Developer</h3>
 
 <div align="center">
 
@@ -14,18 +14,18 @@
 
 ---
 
-### 👨‍💻 Обо мне
+### 👨‍💻 About Me
 
-Я учусь на **Системного администратора**, который расширяет свои горизонты в сторону разработки. Имею бэкграунд в Python и сейчас активно изучаю технологии фронтенда и базы данных.
+I am a **System Administrator** expanding my expertise into software development. With a solid foundation in Python, I am currently diving deep into Frontend technologies and Database management.
 
-- 🔭 Сейчас работаю над: [Dev Space](https://github.com/VORON2272/Dev-Space).
-- 🌱 Сейчас изучаю: **HTML5, CSS3, JavaScript, MySQL**.
-- ⚙️ Мой опыт: Linux, Server Administration, Bash scripting.
-- ⚡ Мой сайт: [infome-voron.ru](https://infome-voron.ru/)
+- 🔭 **Current Project:** Working on [Dev Space](https://github.com/VORON2272/Dev-Space).
+- 🌱 **Learning Path:** Mastering **HTML5, CSS3, JavaScript, and MySQL**.
+- ⚙️ **Core Experience:** Linux OS, Server Administration, and Bash scripting.
+- ⚡ **Personal Site:** [infome-voron.ru](https://infome-voron.ru/)
 
 ---
 
-### 🛠️ Технический стек
+### 🛠️ Technical Stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 GitHub Статистика
+### 📊 GitHub Analytics
 
 <div align="center">
   
