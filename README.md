@@ -2,15 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&width=435&lines=System+Administrator;Python+Developer;Learning+Full+Stack+Web;Welcome+to+my+profile!&center=true&vCenter=true&multiline=true&height=100" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Привет! Я системный администратор, погружающийся в веб-разработку 🚀</h3>
+<h3 align="center">Я VORON Системный Администратор</h3>
 
 <div align="center">
 
   <a href="https://infome-voron.ru/" target="_blank">
     <img src="https://img.shields.io/badge/Website-infome--voron.ru-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="mailto:твой_email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
 </div>
@@ -19,7 +16,7 @@
 
 ### 👨‍💻 Обо мне
 
-Я опытный **Системный администратор**, который расширяет свои горизонты в сторону разработки. Имею бэкграунд в Python и сейчас активно изучаю технологии фронтенда и базы данных.
+Я учусь на **Системного администратора**, который расширяет свои горизонты в сторону разработки. Имею бэкграунд в Python и сейчас активно изучаю технологии фронтенда и базы данных.
 
 - 🔭 Сейчас работаю над: Автоматизацией задач и веб-проектами.
 - 🌱 Сейчас изучаю: **HTML5, CSS3, JavaScript, MySQL**.
