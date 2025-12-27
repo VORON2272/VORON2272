@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&width=435&lines=System+Administrator;Python+Developer;Learning+Full+Stack+Web;Welcome+to+my+profile!&center=true&vCenter=true&multiline=true&height=100" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&width=600&lines=System+Administrator;Python+Developer;Learning+Full+Stack+Web;Welcome+to+my+profile!&center=true&vCenter=true&multiline=true&height=150" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Я VORON Системный Администратор</h3>
