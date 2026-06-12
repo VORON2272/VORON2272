@@ -18,7 +18,7 @@
 
 I am a **System Administrator** expanding my expertise into software development. With a solid foundation in Python, I am currently diving deep into Frontend technologies and Database management.
 
-- 🔭 **Current Project:** Working on [Dev Space](https://github.com/VORON2272/Dev-Space).
+- 🔭 **Current Project:** Working on [BaroVoices-TTS](https://github.com/VORON2272/BaroVoices-TTS).
 - 🌱 **Learning Path:** Mastering **HTML5, CSS3, JavaScript, and MySQL**.
 - ⚙️ **Core Experience:** Linux OS, Server Administration, and Bash scripting.
 - ⚡ **Personal Site:** [infome-voron.ru](https://infome-voron.ru/)
